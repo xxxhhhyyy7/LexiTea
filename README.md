@@ -15,7 +15,7 @@ LexiTea is a terminal-based vocabulary learning tool that implements the Ebbingh
 - 💾 Local progress persistence
 - 🎨 Beautiful TUI interface
 
-## TODO | 待办事项
+## TODO
 
 1. Project Planning & Design | 项目规划与设计
   - [x] Project name and scope definition | 项目名称与范围定义
